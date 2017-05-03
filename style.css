@@ -1,0 +1,21 @@
+body{
+  background-color:#891339;
+  margin:0;
+  padding:0;
+}
+#wrapper{
+  color:white;
+  text-align:center;
+  padding:50px;
+  width:500px;
+  height:500px;
+  background-color:#565252;
+  margin:30px auto;
+  border-radius:3px;
+}
+#score{
+  font-size:40px;
+}
+.green{
+  color:green;
+}
