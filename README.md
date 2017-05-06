@@ -1,6 +1,6 @@
 # Project: Scorekeeper
 
-Pretty simple web app
+Pretty simple.
 
 let you keep the score.
 
